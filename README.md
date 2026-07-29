@@ -105,8 +105,8 @@ NODE_ENV=development
 
 DB_HOST=localhost
 DB_PORT=3306
-DB_USER=root
-DB_PASSWORD=
+DB_USER=your_username
+DB_PASSWORD=your_password
 DB_NAME=arthub
 
 JWT_SECRET=replace_with_a_long_random_secret
